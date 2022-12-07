@@ -1,0 +1,63 @@
+.navbar {
+    list-style: none;
+    padding: 25px 0px;
+    width: 1500px;
+    background-color: #F9F9F9;
+    text-align: center;
+    margin: 10px auto;
+    font-family: Courier, monospace
+}
+
+.navbar li {
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.navbar li a {
+    color: #288AB5 ;
+    text-decoration: none;
+    padding: 5px 79px;
+    font-size: 25px;
+}
+#cartimg {
+    left: 94%;
+    bottom: 90%;
+    position: absolute;
+    
+}
+#header2 {
+    position: absolute;
+    top:10%;
+    left: 11.5%;
+    margin: auto;
+}
+#footer2 {
+    position: absolute;
+    top:110%;
+    left:11%;
+    margin:auto;
+}
+.bio {
+    position: absolute;
+    top:75%;
+    left:23%;
+    font-family: Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+.bio2 {
+    position: absolute;
+    top:79%;
+    left:16.5%;
+    font-family: Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+.bio3 {
+    position: absolute;
+    top:83%;
+    left:1%;
+    font-family: Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}

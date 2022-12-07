@@ -1,0 +1,77 @@
+.navbar {
+    list-style: none;
+    padding: 25px 0px;
+    width: 1500px;
+    background-color: #F9F9F9;
+    text-align: center;
+    margin: 10px auto;
+    font-family: Courier, monospace
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.navbar li a {
+    color: #288AB5 ;
+    text-decoration: none;
+    padding: 5px 79px;
+    font-size: 25px;
+}
+#cartimg {
+    left: 94%;
+    bottom: 90%;
+    position: absolute;
+    
+}
+#header3 {
+    position: absolute;
+    top:10%;
+    left: 30.5%;
+    margin: auto;
+}
+#footer3 {
+    position: absolute;
+    top:100%;
+    left:11%;
+    margin:auto;
+}
+.email {
+    position: absolute;
+    top:65%;
+    left:39%;
+    font-family: Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+.twitter {
+    position: absolute;
+    top:75%;
+    left:43%;
+    font-family: Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+#mail {
+    position: absolute;
+    top:90%;
+    left:47%;
+}
+.mailtext {
+    position: absolute;
+    top:85%;
+    left:49.5%;
+    font-family: Courier, monospace;
+}
+#submitbtn {
+    position: absolute;
+    top:95%;
+    left:49.5%;
+    font-family: Courier, monospace;
+}
+#good {
+    position: absolute;
+    top:94%;
+    left:48.75%;
+    font-family: Courier, monospace;
+}

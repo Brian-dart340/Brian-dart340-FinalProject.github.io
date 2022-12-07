@@ -1,0 +1,210 @@
+.navbar {
+    list-style: none;
+    padding: 25px 0px;
+    width: 1500px;
+    background-color: #F9F9F9;
+    text-align: center;
+    margin: 10px auto;
+    font-family: Courier, monospace
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.navbar li a {
+    color: #288AB5 ;
+    text-decoration: none;
+    padding: 5px 79px;
+    font-size: 25px;
+}
+#container {
+    background-color: aqua;
+}
+#cartimg {
+    left: 94%;
+    bottom: 90%;
+    position: absolute;
+    
+}
+#img1 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:50%;
+        left:0%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#img2 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:50%;
+        left:37%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#img3 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:50%;
+        left:73%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#img4 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:99.5%;
+        left:0%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#img5 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:99.5%;
+        left:37%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#img6 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:99.5%;
+        left:73%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#img7 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:150%;
+        left:0%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#img8 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:150%;
+        left:37%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#img9 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:150%;
+        left:73%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#img10 {
+        width=20%;
+        height=50px;
+        position:absolute;
+        top:200%;
+        left:37%;
+        padding: 15px;
+        overflow: hidden;
+    }
+#cart1 {
+    position: absolute;
+    top: 88%;
+    left: 11%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#cart2 {
+    position: absolute;
+    top: 88%;
+    left: 48.5%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#cart3 {
+    position: absolute;
+    top: 88%;
+    left: 85.5%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#cart4 {
+    position: absolute;
+    top: 137.5%;
+    left: 11%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#cart5 {
+    position: absolute;
+    top: 137.5%;
+    left: 48.5%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#cart6 {
+    position: absolute;
+    top: 137.5%;
+    left: 85.5%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#cart7 {
+    position: absolute;
+    top: 188%;
+    left: 11.5%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#cart8 {
+    position: absolute;
+    top: 188%;
+    left: 48.5%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#cart9 {
+    position: absolute;
+    top: 188%;
+    left: 85.5%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#cart10 {
+    position: absolute;
+    top: 238%;
+    left: 48%;
+    background-color:#288AB5;
+    color:white;
+    font-family: Courier, monospace;
+}
+#header {
+    position: absolute;
+    left: 11%;
+    margin: auto;
+}
+#footer {
+    position: absolute;
+    top:250%;
+    left:11%;
+    margin:auto;
+}

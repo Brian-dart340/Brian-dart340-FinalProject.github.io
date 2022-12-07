@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+ <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style3.css">
+        <title>Portfolio Project</title>
+    </head>
+<body>
+    <ul class="navbar">
+        <li><a href="index.html">Artwork</a></li>
+        <li><a href="index2.html">About Me</a></li>
+        <li><a href="index3.html">Contact</a></li>
+        <button id="cartimg" type="image"><img src="cartlogo.png"></button>
+    </ul>
+    
+    <div id = "header3">
+    <img src = "contactimg.jpg" alt="contactheader">
+    </div>
+    
+    <div id ="footer3">
+    <img src ="footer.jpg" alt="foot">
+    </div>
+    
+    <p class="email">Email: moofinmenart@gmail.com</p>
+    <p class="twitter">Twitter: @moofinmen</p>
+    <p class="mailtext">Email:</p>
+    <button id = "submitbtn">Submit</button>
+    <div id = "good">
+    <p>All good!</p>
+    </div>
+    
+    <form>
+    <label form="mail"></label><br>
+    <input type="text" id = "mail">
+    </form>
+    
+    <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+    
+    <script>
+    $("#good").hide();
+    
+    let onButtonClick = function() {
+        $("#submitbtn").remove();
+        $("#good").show();
+    }
+    $("#submitbtn").on("click", onButtonClick);
+        
+    </script>
+    
+    
+    </body>
+
+
+
+
+</html>
